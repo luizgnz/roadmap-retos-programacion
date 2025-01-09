@@ -29,5 +29,6 @@ jobs:
         with:
           commit_message: update stats
           commit_user_name: Luis Gonzalez  [Github Actions]
+          commit_user_email: aaa@bb.com
           commit_author: luizgnz
     
